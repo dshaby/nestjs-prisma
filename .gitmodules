@@ -1,0 +1,3 @@
+[submodule "workplace-api"]
+	path = workplace-api
+	url = ./workplace-api
